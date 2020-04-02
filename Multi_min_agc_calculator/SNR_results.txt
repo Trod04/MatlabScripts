@@ -1,0 +1,7 @@
+Metersize_10_MeterType_68_69511523_Recorded U_Data.csv,NaN,NaN
+Pathtype,maxAGC,maxAGCcorr
+Type1_LD,4860,6860
+Type2_sw,5380,7380
+Type3_na,NaN,NaN
+type4_SD,3920,5920
+type_average,5380,7380

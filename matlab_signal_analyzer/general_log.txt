@@ -1,0 +1,20 @@
+13-Oct-2016 16:24:35 logfile opened for MPCscope 
+16:24:53 MPC files were loaded succesfully
+16:24:53 Pulse was processed succesfully
+16:24:53 Results were published succesfully
+16:24:54 PlotPulseScope finished succesfully 
+16:24:56 Pulse was processed succesfully
+16:24:56 Results were published succesfully
+16:24:56 PlotPulseScope finished succesfully 
+16:24:57 Pulse was processed succesfully
+16:24:57 Results were published succesfully
+16:24:57 PlotPulseScope finished succesfully 
+16:24:58 Pulse was processed succesfully
+16:24:58 Results were published succesfully
+16:24:58 PlotPulseScope finished succesfully 
+16:24:59 Pulse was processed succesfully
+16:24:59 Results were published succesfully
+16:24:59 PlotPulseScope finished succesfully 
+16:25:00 Pulse was processed succesfully
+16:25:00 Results were published succesfully
+16:25:00 PlotPulseScope finished succesfully 

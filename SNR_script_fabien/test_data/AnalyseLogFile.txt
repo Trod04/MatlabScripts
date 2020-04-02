@@ -1,0 +1,156 @@
+
+16-Oct-2017 11:27:34 logfile opened, Matlab Script Version: v 0.0.3.0 
+11:27:34 CRITERIA.TXT for logfile loaded
+11:27:34 RESULTS.TXT opened
+11:27:34 Path CTs were succesfully generated
+11:27:34 Metertype was identified
+11:27:34 ###########################################
+11:27:34 METER INFO:
+11:27:34 Serialnumber:69511605
+11:27:34 Number of paths:6
+11:27:34 Fatrevision: A
+11:27:34 Metertype:QsonicPlus
+11:27:34 ###########################################
+11:27:34 5 csv files found
+11:27:37 MPC files were loaded succesfully
+11:27:37 o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+11:27:37 Starting test:MPCTESTS
+11:27:37 o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+11:27:37 Peak value generation in CSV5, transducer t1a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t1b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t1b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t2b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t2b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t3b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t3b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4a succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4a succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4b succesfully terminated
+11:27:37 Peak value generation in CSV5, transducer t4b succesfully terminated
+11:27:37 Inversion Check in CSV5, tranducer t4b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t4b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t4b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t4b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t4b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t5b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t5b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6a succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6a succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6b succesfully terminated
+11:27:38 Peak value generation in CSV5, transducer t6b succesfully terminated
+11:27:38 Inversion Check in CSV5, tranducer t6b succesfully terminated
+11:27:40 Testresults were succesfully written to resultsfile
+11:27:40 plot tables were generated succesfully
+11:27:40 Error in generating SNR Table.
+11:27:40 Invalid file identifier. Use fopen to generate a valid file identifier.
+11:27:45 RESULTS table succesfully generated
+11:27:47 RESULTS table succesfully generated
+11:27:50 RESULTS table succesfully generated
+11:27:53 RESULTS table succesfully generated
+11:27:56 RESULTS table succesfully generated
+11:28:00 RESULTS table succesfully generated
+11:28:03 RESULTS table succesfully generated
+11:28:06 RESULTS table succesfully generated
+11:28:08 RESULTS table succesfully generated
+11:28:11 RESULTS table succesfully generated
+11:28:13 RESULTS table succesfully generated
+11:28:16 RESULTS table succesfully generated
+11:28:16 Plots succesfully executed
+11:28:16 Couldnt execute one or more subtests

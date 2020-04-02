@@ -1,0 +1,2 @@
+01-Aug-2018 14:38:44 error logfile opened 
+14:38:46 Sonic logfile succesfully opened

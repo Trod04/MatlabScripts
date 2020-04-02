@@ -1,0 +1,8 @@
+Test Type;Test Results;Test Values;Limits Type;Limits Value
+P4/P2 Ratio;OK;0.76876;MAX;1.5
+P3/P1 Ratio;OK;4.2784;MIN;3
+N4/N2 Ratio;OK;1.8809;MAX;100
+N3/N1 Ratio;OK;7.2851;MIN;0
+Second Wave;OK;0.74366;MIN;0.55
+Signal Noise;OK;16.9969;MIN;2
+Valid Detection Points;OK;5;MIN;5

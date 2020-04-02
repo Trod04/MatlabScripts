@@ -1,0 +1,462 @@
+Param Name,Param Value,Param Unit
+Meter name,68,DEFAULT
+Customer ID,,DEFAULT
+Serial Number,0,DEFAULT
+Diameter,0.1464,m
+Serial Number,0,DEFAULT
+Path Length B1CW,0.55806,m
+Path Length D-RT,0.17541,m
+Path Length D-LT,0.17541,m
+Path Length A1,0.24803,m
+Path Length A2,0.24803,m
+Path Length D-RB,0.17541,m
+Path Length D-LB,0.17541,m
+Path Length {PathLabel 17},0.55806,m
+Path Angle B1CW,62.2,°
+Path Angle D-RT,50,°
+Path Angle D-LT,50,°
+Path Angle A1,50,°
+Path Angle A2,50,°
+Path Angle D-RB,50,°
+Path Angle D-LB,50,°
+Path Angle B1-CCW,62.2,°
+Detection Method B1CW,0,DEFAULT
+Detection Method D-RT,0,DEFAULT
+Detection Method D-LT,0,DEFAULT
+Detection Method A1,0,DEFAULT
+Detection Method A2,0,DEFAULT
+Detection Method D-RB,0,DEFAULT
+Detection Method D-LB,0,DEFAULT
+Detection Method B1-CCW,0,DEFAULT
+Detection Threshold B1CW,145,%
+Detection Threshold D-RT,145,%
+Detection Threshold D-LT,145,%
+Detection Threshold A1,145,%
+Detection Threshold A2,145,%
+Detection Threshold D-RB,145,%
+Detection Threshold D-LB,145,%
+Detection Threshold B1-CCW,145,%
+Detection Criteria B1CW,200,%
+Detection Criteria D-RT,200,%
+Detection Criteria D-LT,200,%
+Detection Criteria A1,200,%
+Detection Criteria A2,200,%
+Detection Criteria D-RB,200,%
+Detection Criteria D-LB,200,%
+Detection Criteria B1-CCW,200,%
+Invert Signals B1CW,0,DEFAULT
+Invert Signals D-RT,0,DEFAULT
+Invert Signals D-LT,0,DEFAULT
+Invert Signals A1,0,DEFAULT
+Invert Signals A2,0,DEFAULT
+Invert Signals D-RB,0,DEFAULT
+Invert Signals D-LB,0,DEFAULT
+Invert Signals B1-CCW,0,DEFAULT
+Zero Cross B1CW,1,DEFAULT
+Zero Cross D-RT,1,DEFAULT
+Zero Cross D-LT,1,DEFAULT
+Zero Cross A1,1,DEFAULT
+Zero Cross A2,1,DEFAULT
+Zero Cross D-RB,1,DEFAULT
+Zero Cross D-LB,1,DEFAULT
+Zero Cross B1-CCW,1,DEFAULT
+Transit Time Filter Mode,2,DEFAULT
+VoS Low Limit,300,m/s
+VoS High Limit,470,m/s
+VoGraw Low Limit,-50,m/s
+VoGraw High Limit,50,m/s
+Minimum Performance,10,%
+TransitTime Std. Deviation High Limit,10000,DEFAULT
+VMod Timing Constant B1CW,13000,DEFAULT
+VMod Timing Constant D-RT,13000,DEFAULT
+VMod Timing Constant D-LT,13000,DEFAULT
+VMod Timing Constant A1,13000,DEFAULT
+VMod Timing Constant A2,13000,DEFAULT
+VMod Timing Constant D-RB,13000,DEFAULT
+VMod Timing Constant D-LB,13000,DEFAULT
+VMod Timing Constant B1-CCW,13000,DEFAULT
+SNR Limit,5,DEFAULT
+Density & Viscosity Mode,0,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Normalisation,True,DEFAULT
+Pressure & Temperature Mode,0,DEFAULT
+Static density,45,kg/m²
+Static viscosity,1.3E-05,Pa s
+Input,81.315,%
+Input,14.221,%
+Input,0.99,%
+Input,2.829,%
+Input,0.38,%
+Input,0.38,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Input,0,%
+Static pressure,1.01315,bar-a
+Static temperature,20,°C
+Axial 1,4000,DEFAULT
+Axial 2,25,DEFAULT
+Axial 3,0.85,DEFAULT
+Axial 4,1.028,DEFAULT
+Axial 5,0.15,DEFAULT
+Axial 6,0,DEFAULT
+Swirl 1,1,DEFAULT
+Swirl 2,1,DEFAULT
+Swirl 3,1,DEFAULT
+Swirl 4,1,DEFAULT
+Swirl 5,0,DEFAULT
+Swirl 6,0,DEFAULT
+HalfSquare 1,1,DEFAULT
+HalfSquare 2,1,DEFAULT
+HalfSquare 3,1,DEFAULT
+HalfSquare 4,1,DEFAULT
+HalfSquare 5,0,DEFAULT
+HalfSquare 6,0,DEFAULT
+Custom 1,4000,DEFAULT
+Custom 2,25,DEFAULT
+Custom 3,0.85,DEFAULT
+Custom 4,1.028,DEFAULT
+Custom 5,0.15,DEFAULT
+Custom 6,0,DEFAULT
+Geometry Correction Mode,0,DEFAULT
+Calibration Pressure,1.01315,bar-a
+Calibration Temperature,20,°C
+Wall thickness,2.5E-05,m
+Body material Young's modulus,210000,bar-a
+Body thermal expansion coefficient,1.3E-05,1/°C
+Poisson's ratio body material,0.28,DEFAULT
+FAT calibration pressure,20,bar-a
+FAT calibration temperature,20,°C
+Linearization,0,DEFAULT
+Linearization Mode,0,DEFAULT
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Fwd Value,0,m³/hr
+Fwd Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+Rev Value,0,m³/hr
+Rev Error,0,%
+b0,0,DEFAULT
+b1,1,DEFAULT
+b2,0,DEFAULT
+b0,0,DEFAULT
+b1,1,DEFAULT
+b2,0,DEFAULT
+Geometry Correction,0,DEFAULT
+k-adjust FWD,1,DEFAULT
+k-adjust REV,1,DEFAULT
+Adjustment,0,DEFAULT
+Velocity Offset,0,DEFAULT
+V_offset,0,m/s
+Low Flow Threshold,0.2,m/s
+Low Pressure CutOff,0,DEFAULT
+Low Pressure Threshold,1.01315,bar-a
+Combination Method,1,DEFAULT
+W 1,0.4,DEFAULT
+W 2,0.4,DEFAULT
+W 3,0,DEFAULT
+W 4,0.4,DEFAULT
+C 1,0,DEFAULT
+C 2,0,DEFAULT
+C 3,0,DEFAULT
+Gain Mode B1CW,0,DEFAULT
+Gain Mode D-RT,1,DEFAULT
+Gain Mode D-LT,0,DEFAULT
+Gain Mode A1,0,DEFAULT
+Gain Mode A2,0,DEFAULT
+Gain Mode D-RB,0,DEFAULT
+Gain Mode D-LB,0,DEFAULT
+Gain Mode B1-CCW,0,DEFAULT
+Gain Value B1CW A,0,DEFAULT
+Gain Value B1CW B,1,DEFAULT
+Gain Value D-RT A,0,DEFAULT
+Gain Value D-RT B,0,DEFAULT
+Gain Value D-LT A,7.5,DEFAULT
+Gain Value D-LT B,0,DEFAULT
+Gain Value A1 A,1.25,DEFAULT
+Gain Value A1 B,0,DEFAULT
+Gain Value A2 A,0,DEFAULT
+Gain Value A2 B,0,DEFAULT
+Gain Value D-RB A,0,DEFAULT
+Gain Value D-RB B,0,DEFAULT
+Gain Value D-LB A,0,DEFAULT
+Gain Value D-LB B,0,DEFAULT
+Gain Value B1-CCW A,1,DEFAULT
+Gain Value B1-CCW B,0,DEFAULT
+Measurement Sample Rate,50,DEFAULT
+Measurement Cycle,700,DEFAULT
+Burst Start Frequency,222,Hz
+Burst Stop Frequency,86,Hz
+Burst Number SB Pulses,2,DEFAULT
+Burst Number Frequencies,12,DEFAULT
+Burst Number Transition Frequencies,0,DEFAULT
+Burst Number CMB Pulses,48,DEFAULT
+Burst Number Repetitions,1,DEFAULT
+WetGas Filter,0,DEFAULT
+VoS Ratio Limit,1,%
+VoS StdDev Limit,1,DEFAULT
+VoG Ratio Limit,50,%
+PathType 1,0,DEFAULT
+PathType 2,0,DEFAULT
+PathType 3,0,DEFAULT
+PathType 4,0,DEFAULT
+LowPass Filter,0,DEFAULT
+Sensitivity,1,DEFAULT
+TwinSonic,4,DEFAULT
+COM Port assign,0,DEFAULT
+TCP Port,50101,DEFAULT
+TCP Address of twin meter,,DEFAULT
+Token Timeout,5000,DEFAULT
+Measurements per cycle,4,DEFAULT
+Transmit time D-RT A->B,0.001207,DEFAULT
+Transmit time D-RT B->A,0.001323,DEFAULT
+Transmit time D-LT A->B,0.001207,DEFAULT
+Transmit time D-LT B->A,0.001323,DEFAULT
+Transmit time A1 A->B,0.001207,DEFAULT
+Transmit time A1 B->A,0.001323,DEFAULT
+Transmit time A2 A->B,0.001207,DEFAULT
+Transmit time A2 B->A,0.001323,DEFAULT
+Transmit time D-RB A->B,0.001207,DEFAULT
+Transmit time D-RB B->A,0.001323,DEFAULT
+Transmit time D-LB A->B,0.001207,DEFAULT
+Transmit time D-LB B->A,0.001323,DEFAULT
+Transmit time B1-CCW A->B,0.001207,DEFAULT
+Transmit time B1-CCW B->A,0.001323,DEFAULT
+Transmit time {PathLabel 8} A->B,0.001207,DEFAULT
+Transmit time {PathLabel 8} B->A,0.001323,DEFAULT
+Out of service,False,DEFAULT
+Resistance,0,amp
+TemperaturePhysicalUnit,,DEFAULT
+Adjusted measured value,0,°C
+Filter mode,1,DEFAULT
+TemperatureLowerLimit,0,DEFAULT
+TemperatureUpperLimit,0,DEFAULT
+Out of service,False,DEFAULT
+PressurePhysicalUnit,UnBar,DEFAULT
+Measured value,0,DEFAULT
+Adjusted measured value,0,DEFAULT
+Filter mode,1,DEFAULT
+Lower limit measured value,1,bar-a
+Upper limit measured value,120,bar-a
+Setpoint min. voltage,0,v
+Setpoint max. voltage,0.05,v
+Setpoint physical value at min. voltage,0,bar-a
+Setpoint physical value at max. voltage,150,bar-a
+Name,,DEFAULT
+Line mode,3,DEFAULT
+Baudrate,6,DEFAULT
+Data bits,1,DEFAULT
+Parity,1,DEFAULT
+Stop bits,1,DEFAULT
+COM Port,0,DEFAULT
+Name,,DEFAULT
+Line mode,3,DEFAULT
+Baudrate,6,DEFAULT
+Data bits,1,DEFAULT
+Parity,1,DEFAULT
+Stop bits,1,DEFAULT
+COM Port,0,DEFAULT
+Name,,DEFAULT
+Physical quantity,PhVolFlowrate,DEFAULT
+FreqOutCh1_PhysUnit,UnCbmPerHour,DEFAULT
+Output assign,,m³/hr
+Frequency,0,Hz
+Adjusted frequency,0,Hz
+Maximum frequency,0,DEFAULT
+Setpoint min. frequency,0,Hz
+Setpoint max. frequency,3000,Hz
+Setpoint output assign at min. frequency,0,m³/hr
+Setpoint output assign at max. frequency,150000,m³/hr
+Setpoint output assign at error. frequency,3000,Hz
+Setpoint output assign at test. frequency,0,Hz
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Measured value 1,0,Hz
+Adjusted value 1,0,Hz
+Measured value 2,5000,Hz
+Adjusted value 2,5000,Hz
+Name,,DEFAULT
+Physical quantity,PhVolFlowrate,DEFAULT
+FreqOutCh2_PhysUnit,UnCbmPerHour,DEFAULT
+Output assign,,m³/hr
+Frequency,0,Hz
+Adjusted frequency,0,Hz
+Maximum frequency,0,DEFAULT
+Setpoint min. frequency,0,Hz
+Setpoint max. frequency,3000,Hz
+Setpoint output assign at min. frequency,0,m³/hr
+Setpoint output assign at max. frequency,150000,m³/hr
+Setpoint output assign at error. frequency,3000,Hz
+Setpoint output assign at test. frequency,0,Hz
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Measured value 1,0,Hz
+Adjusted value 1,0,Hz
+Measured value 2,5000,Hz
+Adjusted value 2,5000,Hz
+Name,,DEFAULT
+FreqOutCh2_LinkPhaseAngle,0,DEFAULT
+Name,,DEFAULT
+Physical quantity,PhAbsPress,DEFAULT
+Analog2AOutCOutUnP,UnPhDefault,DEFAULT
+Output assign,,bar-a
+Filter mode,1,DEFAULT
+Current input mode,2,DEFAULT
+Setpoint physical value at 0/4 mA,0.9,bar-a
+Setpoint physical value at 20 mA,4.5,bar-a
+Physical value on error,0,mA
+Test value,0,mA
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Output value 1,4,mA
+Adjusted value 1,4,mA
+Output value 2,20,mA
+Adjusted value 2,20,mA
+Analog1DoutTrigOutTestOutMode,,DEFAULT
+Analog1DoutTrigOutPulseCount,,DEFAULT
+Analog1DoutTrigOutPulseWidth,,DEFAULT
+Name,,DEFAULT
+Output assign,,DEFAULT
+Output mode,1,DEFAULT
+Inverted,False,DEFAULT
+Holding time,0,DEFAULT
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Test mode,1,DEFAULT
+Test state,1,DEFAULT
+Analog2DoutMesgOutPulseCount,,DEFAULT
+Analog2DoutMesgOutPulseWidth,,DEFAULT
+Analog2DoutTrigOutTestOutMode,,DEFAULT
+Analog2DoutTrigOutPulseCount,,DEFAULT
+Analog2DoutTrigOutPulseWidth,,DEFAULT
+Name,,DEFAULT
+Physical quantity,PhVol,DEFAULT
+Analog2DOutIOutUnP,UnPhDefault,DEFAULT
+Output assign,,m³
+Inverted,False,DEFAULT
+Cp physical quantity,PhVolConvFact,DEFAULT
+Cp physical Unit,UnPhDefault,DEFAULT
+Pulse value,1,DEFAULT
+Pulse width,7,DEFAULT
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Test mode,1,DEFAULT
+Analog2DoutIOutPulseCount,,DEFAULT
+Name,,DEFAULT
+Physical quantity,PhAbsPress,DEFAULT
+Analog1AOutCOutUnP,UnPhDefault,DEFAULT
+Output assign,,bar-a
+Filter mode,1,DEFAULT
+Current input mode,2,DEFAULT
+Setpoint physical value at 0/4 mA,0.9,bar-a
+Setpoint physical value at 20 mA,4.5,bar-a
+Physical value on error,0,mA
+Test value,0,mA
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Output value 1,4,mA
+Adjusted value 1,4,mA
+Output value 2,20,mA
+Adjusted value 2,20,mA
+Name,,DEFAULT
+Output assign,,DEFAULT
+Output mode,1,DEFAULT
+Inverted,False,DEFAULT
+Holding time,0,DEFAULT
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Test mode,1,DEFAULT
+Test state,1,DEFAULT
+Analog1DoutMesgOutPulseCount,,DEFAULT
+Analog1DoutMesgOutPulseWidth,,DEFAULT
+Name,,DEFAULT
+Physical quantity,PhVol,DEFAULT
+Analog1DOutIOutUnP,UnPhDefault,DEFAULT
+Output assign,,m³
+Inverted,False,DEFAULT
+Cp physical quantity,PhVolConvFact,DEFAULT
+Cp physical Unit,UnPhDefault,DEFAULT
+Pulse value,1,DEFAULT
+Pulse width,7,DEFAULT
+Output condition,,DEFAULT
+Inverted,False,DEFAULT
+Test mode,1,DEFAULT
+Analog1DoutIOutPulseCount,,DEFAULT
+Frequency Output On/Off,ON,DEFAULT
+Frequency Output On/Off,ON,DEFAULT
+Analog/Digital Output 1,Digital output channel,DEFAULT
+Analog/Digital Output 2,Digital output channel,DEFAULT
+Pressure,DensVisc.I01.Output.p,DEFAULT
+Temperature,DensVisc.I01.Output.T,DEFAULT
+Density,DensVisc.I01.Output.Density,DEFAULT
+Viscosity,DensVisc.I01.Output.Viscosity,DEFAULT
+Density&Viscosity Status,DensVisc.I01.Output.Status,DEFAULT
+k_geom A,GeomCorr.I01.Output.k_geom_A,DEFAULT
+k_geom B,GeomCorr.I01.Output.k_geom_B,DEFAULT
+k_geom C,GeomCorr.I01.Output.k_geom_C,DEFAULT
+k_geom Dia,GeomCorr.I01.Output.k_geom,DEFAULT
+Geometry Correction Status,GeomCorr.I01.Output.Status,DEFAULT
+
